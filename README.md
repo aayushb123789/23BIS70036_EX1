@@ -6,9 +6,9 @@ This exercise walks you through building a small React application that combines
 - React Context API for authentication (AuthContext)
 - Redux Toolkit for product/catalog and cart management (productsSlice, cartSlice)
 The goals are:
-- a) Create a simple AuthContext that stores `isLoggedIn` and `userName` and updates on login/logout.
-- b) Create a `productsSlice` using Redux Toolkit to add, update, and remove products and connect it to a React component to show live updates.
-- c) Build a combined application where AuthContext stores current user, roles and token, while Redux Toolkit manages product catalog and cart. Show different product management options depending on role (admin vs normal user).
+a) Create a simple AuthContext that stores `isLoggedIn` and `userName` and updates on login/logout.
+b) Create a `productsSlice` using Redux Toolkit to add, update, and remove products and connect it to a React component to show live updates.
+c) Build a combined application where AuthContext stores current user, roles and token, while Redux Toolkit manages product catalog and cart. Show different product management options depending on role (admin vs normal user).
 
 Prerequisites
 -------------
