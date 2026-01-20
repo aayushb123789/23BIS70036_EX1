@@ -1,7 +1,4 @@
-# Develop state management workflows using Context API and Redux Toolkit (CO1)
-
-Course Outcome: CO1  
-Experiment: No 1
+# Develop state management workflows using Context API and Redux Toolkit
 
 Overview
 --------
@@ -89,7 +86,3 @@ Verification checklist (how to verify success)
 - Dispatching `updateProduct` should reflect changes immediately.
 - Dispatching `removeProduct` should remove from the list.
 - Admin-only buttons must be hidden for non-admins.
-
-What's next
------------
-- I pushed the files below to the repository. You can run the app and test the flows. If you want, I can also create a cart slice, add tests, or open a branch/PR with these changes.
